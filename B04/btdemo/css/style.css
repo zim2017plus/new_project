@@ -1,0 +1,21 @@
+
+
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.box {
+    flex: 2;
+    height: 200px;
+    background-color: yellow;
+}
+
+.box1 {
+    flex: 1;
+    height: 200px;
+    background-color: rebeccapurple;
+}
+
