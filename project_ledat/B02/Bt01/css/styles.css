@@ -1,0 +1,37 @@
+body {
+  background-color: #1ab3ca;
+}
+
+.container {
+  border-radius: 20px;
+  padding: 40px;
+  width: 745px;
+  background-color: #FFFFFF;
+  margin: 52px auto;
+}
+
+.container .start , 
+.container h1 , 
+.container .content {
+  margin-bottom: 30px;
+}
+
+.container .start {
+  text-transform: uppercase;
+  font-size: 28px;
+  font-weight: 700;
+  color:#fa0000 ;
+}
+.container h1 {
+  text-transform: uppercase;
+  color: #1ab3ca;
+  font-size: 40px;
+  font-weight: 400;
+}
+.container .content {
+  font-weight: 400 ;
+}
+
+.reg {
+  padding: 35px 45px;
+}
